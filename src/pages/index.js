@@ -38,25 +38,25 @@ export default function Home() {
         <div className={styles.grid}>
           {[
             {
-              href: "https://nextjs.org/docs?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app",
+              href: "https://tinyurl.com/4686673c",
               title: "Docs",
               content:
                 "Find in-depth information about Next.js features and API.",
             },
             {
-              href: "https://nextjs.org/learn?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app",
+              href: "https://tinyurl.com/mrxwvfeh",
               title: "Learn",
               content:
                 "Learn about Next.js in an interactive course with quizzes!",
             },
             {
-              href: "https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app",
+              href: "https://tinyurl.com/yckz6kku",
               title: "Templates",
               content:
                 "Discover and deploy boilerplate example Next.js projects.",
             },
             {
-              href: "https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app",
+              href: "https://tinyurl.com/3tkm63kw",
               title: "Deploy",
               content:
                 "Instantly deploy your Next.js site to a shareable URL with Vercel.",
